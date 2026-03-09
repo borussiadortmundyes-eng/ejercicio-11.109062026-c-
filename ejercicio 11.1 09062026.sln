@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio 20", "..\ejercici
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio 21", "..\ejercicio 21\ejercicio 21.csproj", "{71A27B94-3D81-4D80-BFFA-F93BFDEE01FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercicio 22", "..\ejercicio 22\ejercicio 22.csproj", "{DA900505-BA20-48DF-88DB-83A823A8FD82}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -321,6 +323,18 @@ Global
 		{71A27B94-3D81-4D80-BFFA-F93BFDEE01FF}.Release|x64.Build.0 = Release|Any CPU
 		{71A27B94-3D81-4D80-BFFA-F93BFDEE01FF}.Release|x86.ActiveCfg = Release|Any CPU
 		{71A27B94-3D81-4D80-BFFA-F93BFDEE01FF}.Release|x86.Build.0 = Release|Any CPU
+		{DA900505-BA20-48DF-88DB-83A823A8FD82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA900505-BA20-48DF-88DB-83A823A8FD82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA900505-BA20-48DF-88DB-83A823A8FD82}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{DA900505-BA20-48DF-88DB-83A823A8FD82}.Debug|x64.Build.0 = Debug|Any CPU
+		{DA900505-BA20-48DF-88DB-83A823A8FD82}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DA900505-BA20-48DF-88DB-83A823A8FD82}.Debug|x86.Build.0 = Debug|Any CPU
+		{DA900505-BA20-48DF-88DB-83A823A8FD82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA900505-BA20-48DF-88DB-83A823A8FD82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA900505-BA20-48DF-88DB-83A823A8FD82}.Release|x64.ActiveCfg = Release|Any CPU
+		{DA900505-BA20-48DF-88DB-83A823A8FD82}.Release|x64.Build.0 = Release|Any CPU
+		{DA900505-BA20-48DF-88DB-83A823A8FD82}.Release|x86.ActiveCfg = Release|Any CPU
+		{DA900505-BA20-48DF-88DB-83A823A8FD82}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
